@@ -126,6 +126,24 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "ralf",
+      "species": "dog",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "ralf",
+      "species": "dog",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
